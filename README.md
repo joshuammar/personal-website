@@ -1,2 +1,4 @@
 # personal-website
-This is a website dedicated to me
+This is a website dedicated to Josh Martin. 
+
+Here you'll find all the info I want the world to know!
