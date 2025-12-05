@@ -1,6 +1,6 @@
-title: "My GitHub Pages"
-email: "you@example.com"
-description: "A simple personal site"
+title: "Joshua Martin"
+email: "joshuammar@gmail.com"
+description: "Meet Josh Martin - SRE/DevOps Engineer, and Tech Enthusiast"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuammar.github.io" # the base hostname & protocol for your site
 theme: minima
