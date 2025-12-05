@@ -1,0 +1,7 @@
+title: "My GitHub Pages"
+email: "you@example.com"
+description: "A simple personal site"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://joshuammar.github.io" # the base hostname & protocol for your site
+theme: minima
+plugins: []
