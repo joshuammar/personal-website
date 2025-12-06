@@ -5,4 +5,4 @@ layout: default
 
 ## About Me
 
-Write a short bio describing yourself.
+Born and Raised in Augusta, Georgia, the only subjects that satisfied my curiousity about the world were Math and Science so I studied to be a Electrical and Computer Engineer at The Georgia Institute of Technolgy in Atlanta, Georgia. After graduation, I started a career in the Technology industry as a full-stack NodeJS developer. After two years on a development team I realized that many development teams lack the necessary infrastructure, build and deploy, and architectural expertise to move faster, and build fault-tolerant, highly available applications, and found my home among Site Reliability Engineering professionals at Cvent. Outside of my professional life, I'm married to my wife, Monica and pet parent to our two cats, Marley and Callie.  

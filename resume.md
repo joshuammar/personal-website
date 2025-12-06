@@ -5,4 +5,4 @@ layout: default
 
 ## Resume
 
-Add your resume or a link to a PDF here. You can also list experience highlights.
+[Joshua Martin's Resume](/assets/Joshua%20Martin%20Resume%2007-21-25.pdf)
