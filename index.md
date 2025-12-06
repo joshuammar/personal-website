@@ -1,10 +1,10 @@
 ---
-title: Home
+title: About Me
 layout: default
 ---
 
-Hi, I'm Josh Martin. On this site, you can learn more about how I'm making an impact at Cvent as a Lead Site Reliability Engineer, what technologies I'm experienced with, and which ones I'm looking to learn!
+## About Me
 
-You can also learn about my hobbies, view my resume and reach out to me via the email listed on the contact page. 
+|![Josh Martin](/assets/JoshMartinImage.png "Josh Martin")| Born and Raised in Augusta, Georgia, the only subjects that satisfied my curiosity about the world were Math and Science so I studied to be a Electrical and Computer Engineer at The Georgia Institute of Technolgy in Atlanta, Georgia. After graduation, I started a career in the Technology Industry as a full-stack NodeJS developer. After two years on a development team I realized that many technology teams lack the necessary infrastructure, build and deploy, and architectural expertise to move faster, and build fault-tolerant, highly available applications, and found my home among Site Reliability Engineering professionals at Cvent. Outside of my professional life, I'm married to my wife, Monica, and pet parent to our two cats, Marley and Callie.  
 
 
