@@ -5,4 +5,4 @@ layout: default
 
 ## Contact
 
-Email: you@example.com
+Email: joshuammar@gmail.com
