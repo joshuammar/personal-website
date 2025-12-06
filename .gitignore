@@ -6,3 +6,6 @@
 
 # _site folder
 /_site
+
+# .jekyll-cache
+/.jekyll-cache
