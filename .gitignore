@@ -3,3 +3,6 @@
 
 #gemfile lock
 /Gemfile.lock
+
+# _site folder
+/_site
