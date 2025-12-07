@@ -1,6 +1,7 @@
 ---
 title: Hobbies
 layout: default
+permalink: /hobbies/
 ---
 
 ## Hobbies
