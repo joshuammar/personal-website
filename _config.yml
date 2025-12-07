@@ -5,3 +5,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuammar.github.io" # the base hostname & protocol for your site
 theme: minima
 plugins: []
+
+minima:
+  nav_pages:
+    - pages/index.md
+    - pages/projects.md
+    - pages/resume.md
+    - pages/hobbies.md
+    - pages/contact.md
