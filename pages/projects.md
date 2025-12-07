@@ -6,7 +6,7 @@ permalink: /projects/
 
 Github: https://github.com/joshuammar/
 
-- AWS S3 Cross-Account Cross-Region Replication - Disaster Recovery data strategy
+- [AWS S3 Cross-Account Cross-Region Replication - Disaster Recovery data strategy](projects/s3-disaster-recovery.md)
 
 - CircleCI Orb Development - Creating modular build and deploy jobs defined once, used everwhere
 
