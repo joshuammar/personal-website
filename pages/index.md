@@ -1,10 +1,8 @@
 ---
 title: About Me
-layout: default
+layout: home
 permalink: /
 ---
-
-## About Me
 
 ![Josh Martin](/assets/images/JoshMartinImage.png "Josh Martin") 
 

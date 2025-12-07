@@ -1,10 +1,8 @@
 ---
 title: Hobbies
-layout: default
+layout: page
 permalink: /hobbies/
 ---
-
-## Hobbies
 
 In my spare time I like to print functional 3D prints. I'm currently printing a lot of Gridfinity, but also exploring Multiboard and other organizational prints. I'm using a Prusa Core One and have been loving the opensource community around it. 
 

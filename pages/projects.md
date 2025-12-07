@@ -1,10 +1,8 @@
 ---
 title: Projects
-layout: default
+layout: page
 permalink: /projects/
 ---
-
-## Projects
 
 - AWS S3 Cross-Account Cross-Region Replication - Disaster Recovery data strategy
 

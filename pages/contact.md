@@ -1,10 +1,8 @@
 ---
 title: Contact
-layout: default
+layout: page
 permalink: /contact/
 ---
-
-## Contact
 
 Email: joshuammar@gmail.com
 
