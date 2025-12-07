@@ -14,12 +14,12 @@ minima:
       url: "https://github.com/joshuammar/personal-website"
     - title: LinkedIn Profile
       icon: linkedin
-      url: "https://www.linkedin.com/in/joshuamartin/"
+      url: "https://www.linkedin.com/in/joshua-martin-28742765/"
   nav_pages:
-    - index.md
-    - projects.md
-    - resume.md
-    - hobbies.md
-    - contact.md
+    - pages/index.md
+    - pages/projects.md
+    - pages/resume.md
+    - pages/hobbies.md
+    - pages/contact.md
   hide_site_feed_link: true
   
