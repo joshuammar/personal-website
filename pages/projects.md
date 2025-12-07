@@ -1,6 +1,7 @@
 ---
 title: Projects
 layout: default
+permalink: /projects/
 ---
 
 ## Projects
@@ -18,4 +19,3 @@ Github-Link
     - NX Webpack build orchestration via pnpm
     - Leveraging CDK Constructs
     - Continuous Integration/Continous Deploy
-
