@@ -7,17 +7,19 @@ theme: minima
 plugins: []
 
 minima:
-  skin: dark
-  nav_pages:
-    - pages/index.md
-    - pages/projects.md
-    - pages/resume.md
-    - pages/hobbies.md
-    - pages/contact.md
+  path: pages/
   social_links:
     - title: Jekyll repository at GitHub
       icon: github
       url: "https://github.com/joshuammar/personal-website"
-    - title: linkedIn Profile
+    - title: LinkedIn Profile
       icon: linkedin
       url: "https://www.linkedin.com/in/joshuamartin/"
+  nav_pages:
+    - index.md
+    - projects.md
+    - resume.md
+    - hobbies.md
+    - contact.md
+  hide_site_feed_link: true
+  
