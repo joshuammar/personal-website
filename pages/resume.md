@@ -1,6 +1,6 @@
 ---
 title: Resume
-layout: default
+layout: page
 permalink: /resume/
 ---
 

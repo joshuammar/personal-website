@@ -1,6 +1,6 @@
 ---
 title: Hobbies
-layout: default
+layout: page
 permalink: /hobbies/
 ---
 
