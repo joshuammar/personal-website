@@ -4,8 +4,6 @@ layout: page
 permalink: /projects/
 ---
 
-## Projects
-
 - AWS S3 Cross-Account Cross-Region Replication - Disaster Recovery data strategy
 
 - CircleCI Orb Development - Creating modular build and deploy jobs defined once, used everwhere
