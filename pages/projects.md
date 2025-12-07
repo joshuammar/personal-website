@@ -1,6 +1,5 @@
 ---
 title: Projects
-author: Josh Martin
 layout: page
 permalink: /projects/
 ---
