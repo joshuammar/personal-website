@@ -1,10 +1,9 @@
 ---
 title: Projects
+author: Josh Martin
 layout: page
 permalink: /projects/
 ---
-
-Github: https://github.com/joshuammar/
 
 - [AWS S3 Cross-Account Cross-Region Replication - Disaster Recovery data strategy](/project-pages/s3-disaster-recovery)
 
@@ -19,4 +18,4 @@ Github: https://github.com/joshuammar/
     - Leveraging CDK Constructs
     - Continuous Integration/Continous Deploy
 
-- This Site! https://github.com/joshuammar/personal-website
+- This Site: [https://github.com/joshuammar/personal-website](https://github.com/joshuammar/personal-website)
