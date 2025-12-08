@@ -3,7 +3,7 @@ title: Projects
 layout: page
 permalink: /projects/
 ---
-
+### Site Reliability Projects
 - [AWS S3 Cross-Account Cross-Region Replication - Disaster Recovery data strategy](/project-pages/s3-disaster-recovery)
 
 - [CircleCI Orb Development - Creating modular build and deploy jobs defined once, used everwhere](/project-pages/circle-ci)
@@ -16,5 +16,7 @@ permalink: /projects/
     - NX Webpack build orchestration via pnpm
     - Leveraging CDK Constructs
     - Continuous Integration/Continous Deploy
+
+### Personal Projects
 
 - This Site! [https://github.com/joshuammar/personal-website](https://github.com/joshuammar/personal-website)
