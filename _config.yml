@@ -7,7 +7,6 @@ theme: minima
 plugins: []
 
 minima:
-  path: pages/
   social_links:
     - title: Jekyll repository at GitHub
       icon: github
@@ -15,11 +14,5 @@ minima:
     - title: LinkedIn Profile
       icon: linkedin
       url: "https://www.linkedin.com/in/joshua-martin-28742765/"
-  nav_pages:
-    - pages/index.md
-    - pages/projects.md
-    - pages/resume.md
-    - pages/hobbies.md
-    - pages/contact.md
   hide_site_feed_link: true
   
