@@ -7,6 +7,7 @@ theme: minima
 plugins: []
 
 minima:
+  skin: dark
   path: pages/
   social_links:
     - title: Jekyll repository at GitHub
