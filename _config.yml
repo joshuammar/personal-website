@@ -4,7 +4,11 @@ description: “Remembering that you are going to die is the best way I know to 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuammar.github.io" # the base hostname & protocol for your site
 theme: minima
-plugins: []
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+quiet_deps: true
+silence_deprecations: [import]
 
 minima:
   social_links:
