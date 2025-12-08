@@ -3,6 +3,7 @@ title: About Me
 layout: home
 theme: minima
 permalink: /
+author: "Josh Martin"
 ---
 ![Josh Martin](/assets/images/JoshMartinImage.png "Josh Martin") 
 
