@@ -7,7 +7,7 @@ permalink: /hobbies/
 In my spare time I like to print functional 3D prints. I'm currently printing a lot of Gridfinity, but also exploring Multiboard and other organizational prints. I'm using a Prusa Core One and have been loving the open source community around it.
 ![gridfinity-bins](/assets/images/PrusaCoreOne.jpg "gridfinity-bins")
 
-[Follow me on Printables](https://www.printables.com/@joshuammar_3856636)
+[Follow me on Printables](https://www.printables.com/@joshuammar_3856636/collections)
 
 #### Goodyear Welted Boots
 I also like to collect high-quality, goodyear welted, american made boots. My favorite pair of boots are a pair of Nicks Handmade Boots, 8 inches, using Wicket and Craig Natural Double Stuffed Leather, made on the HNW last. 
