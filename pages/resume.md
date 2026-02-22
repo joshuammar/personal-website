@@ -4,5 +4,5 @@ layout: page
 permalink: /resume/
 ---
 
-[Joshua Martin's Resume](/assets/Joshua%20Martin%20Resume%2002-21-26.pdf)
+[Open Joshua Martin's Resume PDF](/assets/Joshua%20Martin%20Resume%2002-21-26.pdf)
 
